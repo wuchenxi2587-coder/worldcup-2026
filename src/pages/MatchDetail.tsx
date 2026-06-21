@@ -11,7 +11,7 @@ import type { Team, Match, Player, Lineup } from '../types';
 // ═══════════════════════════════════════════
 // Module 1: What-if Scenario
 // ═══════════════════════════════════════════
-function WhatIfAnalysis({ match, teams, allMatches, t }: { match: Match; teams: Team[]; allMatches: Match[]; t: typeof zh }) {
+function WhatIfAnalysis({ match, teams, allMatches, t }: { match: Match; teams: Team[]; allMatches: Match[]; t: typeof zh | typeof en }) {
   if (match.stage !== 'group' || !match.group) return null;
 
   const teamMap = useMemo(() => { const m: Record<string, Team> = {}; teams.forEach(t => { m[t.id] = t; }); return m; }, [teams]);
@@ -138,7 +138,7 @@ function WhatIfAnalysis({ match, teams, allMatches, t }: { match: Match; teams: 
 // ═══════════════════════════════════════════
 interface KnockoutRound { stage: string; opponentId: string | null; opponentName: string | null; winProb: number; }
 
-function KnockoutPathProjection({ match, teams, t }: { match: Match; teams: Team[]; t: typeof zh }) {
+function KnockoutPathProjection({ match, teams, t }: { match: Match; teams: Team[]; t: typeof zh | typeof en }) {
   if (match.stage !== 'group') return null;
 
   const teamMap = useMemo(() => { const m: Record<string, Team> = {}; teams.forEach(t => { m[t.id] = t; }); return m; }, [teams]);
@@ -221,7 +221,7 @@ function KnockoutPathProjection({ match, teams, t }: { match: Match; teams: Team
 // ═══════════════════════════════════════════
 // Module 3: Head-to-Head
 // ═══════════════════════════════════════════
-function HeadToHead({ match, teams, players, lineups, t }: { match: Match; teams: Team[]; players: Player[]; lineups: Lineup[]; t: typeof zh }) {
+function HeadToHead({ match, teams, players, lineups, t }: { match: Match; teams: Team[]; players: Player[]; lineups: Lineup[]; t: typeof zh | typeof en }) {
   const teamMap = useMemo(() => { const m: Record<string, Team> = {}; teams.forEach(t => { m[t.id] = t; }); return m; }, [teams]);
   const home = teamMap[match.home]; const away = teamMap[match.away];
   if (!home || !away) return null;

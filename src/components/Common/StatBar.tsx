@@ -7,7 +7,6 @@ interface Props {
 }
 
 export default function StatBar({ label, home, away, maxValue = 100, unit = '%' }: Props) {
-  const total = home + away || 1;
   const homePct = (home / maxValue) * 100;
   const awayPct = (away / maxValue) * 100;
 

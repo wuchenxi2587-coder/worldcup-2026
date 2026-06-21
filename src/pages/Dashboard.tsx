@@ -1,14 +1,10 @@
 import { useMemo } from 'react';
 import { useDataStore } from '../store/dataStore';
-import { useSettingsStore } from '../store/settingsStore';
 import FixtureCard from '../components/Common/FixtureCard';
 import { RadarChart, PolarGrid, PolarAngleAxis, Radar, ResponsiveContainer } from 'recharts';
-import { zh, en } from '../i18n';
 
 export default function Dashboard() {
   const { teams, matches } = useDataStore();
-  const { settings } = useSettingsStore();
-  const t = settings.language === 'zh' ? zh : en;
 
   const stats = useMemo(() => {
     const groupMatches = matches.filter(m => m.stage === 'group');

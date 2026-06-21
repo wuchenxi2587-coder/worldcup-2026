@@ -3,7 +3,6 @@ import { useDataStore } from '../store/dataStore';
 import { useSettingsStore } from '../store/settingsStore';
 import FixtureCard from '../components/Common/FixtureCard';
 import { zh, en } from '../i18n';
-import type { Match } from '../types';
 
 const STAGE_KEYS = ['all', 'group', 'r32', 'r16', 'qf', 'sf', 'final'] as const;
 const GROUPS = ['A','B','C','D','E','F','G','H','I','J','K','L'];

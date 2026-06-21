@@ -111,7 +111,7 @@ export default function Analytics() {
                 <CartesianGrid stroke="var(--border-color)" strokeDasharray="3 3" />
                 <XAxis dataKey="year" tick={{ fill: 'var(--text-muted)', fontSize: 10 }} />
                 <YAxis tick={{ fill: 'var(--text-muted)', fontSize: 11 }} />
-                <Tooltip contentStyle={{ backgroundColor: 'var(--bg-card)', borderColor: 'var(--border-color)', fontSize: 12 }} formatter={(v: number) => [`$${v}M`, '奖金']} />
+                <Tooltip contentStyle={{ backgroundColor: 'var(--bg-card)', borderColor: 'var(--border-color)', fontSize: 12 }} formatter={(v: number) => `$${v}M`} />
                 <Line type="monotone" dataKey="prize" stroke="#F5A623" strokeWidth={2.5} dot={{ r: 4, fill: '#F5A623' }} activeDot={{ r: 6 }} />
               </LineChart>
             </ResponsiveContainer>
