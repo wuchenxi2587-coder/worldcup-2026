@@ -1,0 +1,88 @@
+@import "tailwindcss";
+
+@theme {
+  --color-hupu-red: #C41230;
+  --color-hupu-red-dark: #A00E26;
+  --color-hupu-red-light: #E84040;
+  --color-hupu-bg: #F5F5F5;
+  --color-hupu-card: #FFFFFF;
+  --color-hupu-border: #E8E8E8;
+  --color-hupu-text: #1A1A1A;
+  --color-hupu-text-secondary: #666666;
+  --color-hupu-text-muted: #999999;
+  --color-hupu-blue: #1D7EF5;
+  --color-hupu-green: #00B42A;
+  --color-hupu-orange: #FF7D00;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Helvetica Neue', sans-serif;
+}
+
+:root {
+  --bg-primary: #F5F5F5;
+  --bg-secondary: #FFFFFF;
+  --bg-card: #FFFFFF;
+  --bg-hover: #F0F0F0;
+  --text-primary: #1A1A1A;
+  --text-secondary: #666666;
+  --text-muted: #999999;
+  --border-color: #E8E8E8;
+  --accent: #C41230;
+  --accent-hover: #A00E26;
+  --accent-blue: #1D7EF5;
+  --accent-green: #00B42A;
+  --accent-orange: #FF7D00;
+  --live-red: #FF3B30;
+}
+
+[data-theme="dark"] {
+  --bg-primary: #121212;
+  --bg-secondary: #1E1E1E;
+  --bg-card: #1E1E1E;
+  --bg-hover: #2A2A2A;
+  --text-primary: #E8E8E8;
+  --text-secondary: #AAAAAA;
+  --text-muted: #777777;
+  --border-color: #333333;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #ccc; border-radius: 2px; }
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.skeleton {
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s ease-in-out infinite;
+  border-radius: 4px;
+}
+
+@keyframes pulse-live {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+.live-dot {
+  animation: pulse-live 1s ease-in-out infinite;
+}
+
+/* Tabular numbers */
+.tabular-nums { font-variant-numeric: tabular-nums; }
+
+/* Card hover */
+.card-hover { transition: all 0.15s ease; }
+.card-hover:hover { transform: translateY(-1px); box-shadow: 0 2px 8px rgba(0,0,0,0.08); }

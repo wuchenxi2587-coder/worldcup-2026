@@ -1,0 +1,818 @@
+[
+  {
+    "id": "MEX",
+    "name": "Mexico",
+    "nameZh": "墨西哥",
+    "group": "A",
+    "confederation": "CONCACAF",
+    "fifaRank": 15,
+    "flag": "🇲🇽",
+    "stats": {
+      "attack": 78,
+      "defense": 72,
+      "possession": 68,
+      "setPiece": 74,
+      "mentality": 82
+    },
+    "_note": "FIFA rank approximate; stats are simulated placeholder values"
+  },
+  {
+    "id": "RSA",
+    "name": "South Africa",
+    "nameZh": "南非",
+    "group": "A",
+    "confederation": "CAF",
+    "fifaRank": 55,
+    "flag": "🇿🇦",
+    "stats": {
+      "attack": 62,
+      "defense": 58,
+      "possession": 55,
+      "setPiece": 65,
+      "mentality": 70
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "KOR",
+    "name": "Korea Republic",
+    "nameZh": "韩国",
+    "group": "A",
+    "confederation": "AFC",
+    "fifaRank": 22,
+    "flag": "🇰🇷",
+    "stats": {
+      "attack": 74,
+      "defense": 70,
+      "possession": 58,
+      "setPiece": 72,
+      "mentality": 78
+    },
+    "_note": "TODO: placeholder pending official announcement"
+  },
+  {
+    "id": "CZE",
+    "name": "Czechia",
+    "nameZh": "捷克",
+    "group": "A",
+    "confederation": "UEFA",
+    "fifaRank": 40,
+    "flag": "🇨🇿",
+    "stats": {
+      "attack": 68,
+      "defense": 66,
+      "possession": 56,
+      "setPiece": 70,
+      "mentality": 72
+    },
+    "_note": "TODO: placeholder pending official announcement"
+  },
+  {
+    "id": "CAN",
+    "name": "Canada",
+    "nameZh": "加拿大",
+    "group": "B",
+    "confederation": "CONCACAF",
+    "fifaRank": 42,
+    "flag": "🇨🇦",
+    "stats": {
+      "attack": 70,
+      "defense": 65,
+      "possession": 58,
+      "setPiece": 68,
+      "mentality": 72
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "nameZh": "波黑",
+    "group": "B",
+    "confederation": "UEFA",
+    "fifaRank": 62,
+    "flag": "🇧🇦",
+    "stats": {
+      "attack": 66,
+      "defense": 60,
+      "possession": 52,
+      "setPiece": 70,
+      "mentality": 68
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "QAT",
+    "name": "Qatar",
+    "nameZh": "卡塔尔",
+    "group": "B",
+    "confederation": "AFC",
+    "fifaRank": 48,
+    "flag": "🇶🇦",
+    "stats": {
+      "attack": 64,
+      "defense": 62,
+      "possession": 56,
+      "setPiece": 64,
+      "mentality": 66
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "SUI",
+    "name": "Switzerland",
+    "nameZh": "瑞士",
+    "group": "B",
+    "confederation": "UEFA",
+    "fifaRank": 16,
+    "flag": "🇨🇭",
+    "stats": {
+      "attack": 74,
+      "defense": 78,
+      "possession": 62,
+      "setPiece": 75,
+      "mentality": 80
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "BRA",
+    "name": "Brazil",
+    "nameZh": "巴西",
+    "group": "C",
+    "confederation": "CONMEBOL",
+    "fifaRank": 3,
+    "flag": "🇧🇷",
+    "stats": {
+      "attack": 92,
+      "defense": 82,
+      "possession": 85,
+      "setPiece": 80,
+      "mentality": 86
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "MAR",
+    "name": "Morocco",
+    "nameZh": "摩洛哥",
+    "group": "C",
+    "confederation": "CAF",
+    "fifaRank": 13,
+    "flag": "🇲🇦",
+    "stats": {
+      "attack": 76,
+      "defense": 80,
+      "possession": 58,
+      "setPiece": 72,
+      "mentality": 84
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "SCO",
+    "name": "Scotland",
+    "nameZh": "苏格兰",
+    "group": "C",
+    "confederation": "UEFA",
+    "fifaRank": 32,
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "stats": {
+      "attack": 68,
+      "defense": 70,
+      "possession": 54,
+      "setPiece": 74,
+      "mentality": 76
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "HAI",
+    "name": "Haiti",
+    "nameZh": "海地",
+    "group": "C",
+    "confederation": "CONCACAF",
+    "fifaRank": 76,
+    "flag": "🇭🇹",
+    "stats": {
+      "attack": 58,
+      "defense": 52,
+      "possession": 46,
+      "setPiece": 56,
+      "mentality": 64
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "USA",
+    "name": "United States",
+    "nameZh": "美国",
+    "group": "D",
+    "confederation": "CONCACAF",
+    "fifaRank": 12,
+    "flag": "🇺🇸",
+    "stats": {
+      "attack": 80,
+      "defense": 74,
+      "possession": 70,
+      "setPiece": 76,
+      "mentality": 80
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "PAR",
+    "name": "Paraguay",
+    "nameZh": "巴拉圭",
+    "group": "D",
+    "confederation": "CONMEBOL",
+    "fifaRank": 49,
+    "flag": "🇵🇾",
+    "stats": {
+      "attack": 64,
+      "defense": 66,
+      "possession": 50,
+      "setPiece": 68,
+      "mentality": 72
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "AUS",
+    "name": "Australia",
+    "nameZh": "澳大利亚",
+    "group": "D",
+    "confederation": "AFC",
+    "fifaRank": 27,
+    "flag": "🇦🇺",
+    "stats": {
+      "attack": 70,
+      "defense": 70,
+      "possession": 54,
+      "setPiece": 72,
+      "mentality": 78
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "TUR",
+    "name": "Turkey",
+    "nameZh": "土耳其",
+    "group": "D",
+    "confederation": "UEFA",
+    "fifaRank": 35,
+    "flag": "🇹🇷",
+    "stats": {
+      "attack": 74,
+      "defense": 68,
+      "possession": 58,
+      "setPiece": 70,
+      "mentality": 76
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "GER",
+    "name": "Germany",
+    "nameZh": "德国",
+    "group": "E",
+    "confederation": "UEFA",
+    "fifaRank": 11,
+    "flag": "🇩🇪",
+    "stats": {
+      "attack": 86,
+      "defense": 80,
+      "possession": 78,
+      "setPiece": 84,
+      "mentality": 88
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "CIV",
+    "name": "Ivory Coast",
+    "nameZh": "科特迪瓦",
+    "group": "E",
+    "confederation": "CAF",
+    "fifaRank": 38,
+    "flag": "🇨🇮",
+    "stats": {
+      "attack": 72,
+      "defense": 66,
+      "possession": 54,
+      "setPiece": 68,
+      "mentality": 74
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "ECU",
+    "name": "Ecuador",
+    "nameZh": "厄瓜多尔",
+    "group": "E",
+    "confederation": "CONMEBOL",
+    "fifaRank": 28,
+    "flag": "🇪🇨",
+    "stats": {
+      "attack": 68,
+      "defense": 70,
+      "possession": 52,
+      "setPiece": 66,
+      "mentality": 74
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "CUW",
+    "name": "Curaçao",
+    "nameZh": "库拉索",
+    "group": "E",
+    "confederation": "CONCACAF",
+    "fifaRank": 82,
+    "flag": "🇨🇼",
+    "stats": {
+      "attack": 52,
+      "defense": 48,
+      "possession": 44,
+      "setPiece": 50,
+      "mentality": 60
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "NED",
+    "name": "Netherlands",
+    "nameZh": "荷兰",
+    "group": "F",
+    "confederation": "UEFA",
+    "fifaRank": 7,
+    "flag": "🇳🇱",
+    "stats": {
+      "attack": 84,
+      "defense": 82,
+      "possession": 76,
+      "setPiece": 78,
+      "mentality": 82
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "SWE",
+    "name": "Sweden",
+    "nameZh": "瑞典",
+    "group": "F",
+    "confederation": "UEFA",
+    "fifaRank": 26,
+    "flag": "🇸🇪",
+    "stats": {
+      "attack": 72,
+      "defense": 74,
+      "possession": 56,
+      "setPiece": 76,
+      "mentality": 78
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "JPN",
+    "name": "Japan",
+    "nameZh": "日本",
+    "group": "F",
+    "confederation": "AFC",
+    "fifaRank": 18,
+    "flag": "🇯🇵",
+    "stats": {
+      "attack": 76,
+      "defense": 72,
+      "possession": 66,
+      "setPiece": 70,
+      "mentality": 80
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "TUN",
+    "name": "Tunisia",
+    "nameZh": "突尼斯",
+    "group": "F",
+    "confederation": "CAF",
+    "fifaRank": 36,
+    "flag": "🇹",
+    "stats": {
+      "attack": 66,
+      "defense": 68,
+      "possession": 52,
+      "setPiece": 66,
+      "mentality": 72
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "BEL",
+    "name": "Belgium",
+    "nameZh": "比利时",
+    "group": "G",
+    "confederation": "UEFA",
+    "fifaRank": 6,
+    "flag": "🇧🇪",
+    "stats": {
+      "attack": 86,
+      "defense": 78,
+      "possession": 74,
+      "setPiece": 80,
+      "mentality": 82
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "IRN",
+    "name": "Iran",
+    "nameZh": "伊朗",
+    "group": "G",
+    "confederation": "AFC",
+    "fifaRank": 21,
+    "flag": "🇮🇷",
+    "stats": {
+      "attack": 64,
+      "defense": 72,
+      "possession": 46,
+      "setPiece": 74,
+      "mentality": 80
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "NZL",
+    "name": "New Zealand",
+    "nameZh": "新西兰",
+    "group": "G",
+    "confederation": "OFC",
+    "fifaRank": 94,
+    "flag": "🇳🇿",
+    "stats": {
+      "attack": 56,
+      "defense": 54,
+      "possession": 48,
+      "setPiece": 58,
+      "mentality": 66
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "EGY",
+    "name": "Egypt",
+    "nameZh": "埃及",
+    "group": "G",
+    "confederation": "CAF",
+    "fifaRank": 33,
+    "flag": "🇪🇬",
+    "stats": {
+      "attack": 70,
+      "defense": 68,
+      "possession": 54,
+      "setPiece": 68,
+      "mentality": 74
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "ESP",
+    "name": "Spain",
+    "nameZh": "西班牙",
+    "group": "H",
+    "confederation": "UEFA",
+    "fifaRank": 2,
+    "flag": "🇪🇸",
+    "stats": {
+      "attack": 90,
+      "defense": 84,
+      "possession": 88,
+      "setPiece": 82,
+      "mentality": 86
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "KSA",
+    "name": "Saudi Arabia",
+    "nameZh": "沙特阿拉伯",
+    "group": "H",
+    "confederation": "AFC",
+    "fifaRank": 53,
+    "flag": "🇸🇦",
+    "stats": {
+      "attack": 62,
+      "defense": 58,
+      "possession": 48,
+      "setPiece": 62,
+      "mentality": 68
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "URU",
+    "name": "Uruguay",
+    "nameZh": "乌拉圭",
+    "group": "H",
+    "confederation": "CONMEBOL",
+    "fifaRank": 14,
+    "flag": "🇺🇾",
+    "stats": {
+      "attack": 78,
+      "defense": 76,
+      "possession": 56,
+      "setPiece": 74,
+      "mentality": 84
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "CPV",
+    "name": "Cape Verde",
+    "nameZh": "佛得角",
+    "group": "H",
+    "confederation": "CAF",
+    "fifaRank": 60,
+    "flag": "🇨🇻",
+    "stats": {
+      "attack": 60,
+      "defense": 56,
+      "possession": 46,
+      "setPiece": 58,
+      "mentality": 66
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "FRA",
+    "name": "France",
+    "nameZh": "法国",
+    "group": "I",
+    "confederation": "UEFA",
+    "fifaRank": 1,
+    "flag": "🇫🇷",
+    "stats": {
+      "attack": 94,
+      "defense": 86,
+      "possession": 82,
+      "setPiece": 84,
+      "mentality": 90
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "NOR",
+    "name": "Norway",
+    "nameZh": "挪威",
+    "group": "I",
+    "confederation": "UEFA",
+    "fifaRank": 45,
+    "flag": "🇳🇴",
+    "stats": {
+      "attack": 74,
+      "defense": 66,
+      "possession": 54,
+      "setPiece": 70,
+      "mentality": 72
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "SEN",
+    "name": "Senegal",
+    "nameZh": "塞内加尔",
+    "group": "I",
+    "confederation": "CAF",
+    "fifaRank": 19,
+    "flag": "🇸🇳",
+    "stats": {
+      "attack": 76,
+      "defense": 74,
+      "possession": 56,
+      "setPiece": 70,
+      "mentality": 80
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "IRQ",
+    "name": "Iraq",
+    "nameZh": "伊拉克",
+    "group": "I",
+    "confederation": "AFC",
+    "fifaRank": 68,
+    "flag": "🇮🇶",
+    "stats": {
+      "attack": 58,
+      "defense": 56,
+      "possession": 46,
+      "setPiece": 60,
+      "mentality": 70
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "ARG",
+    "name": "Argentina",
+    "nameZh": "阿根廷",
+    "group": "J",
+    "confederation": "CONMEBOL",
+    "fifaRank": 4,
+    "flag": "🇦🇷",
+    "stats": {
+      "attack": 92,
+      "defense": 84,
+      "possession": 80,
+      "setPiece": 82,
+      "mentality": 90
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "AUT",
+    "name": "Austria",
+    "nameZh": "奥地利",
+    "group": "J",
+    "confederation": "UEFA",
+    "fifaRank": 25,
+    "flag": "🇦🇹",
+    "stats": {
+      "attack": 72,
+      "defense": 70,
+      "possession": 58,
+      "setPiece": 72,
+      "mentality": 74
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "JOR",
+    "name": "Jordan",
+    "nameZh": "约旦",
+    "group": "J",
+    "confederation": "AFC",
+    "fifaRank": 64,
+    "flag": "🇯🇴",
+    "stats": {
+      "attack": 60,
+      "defense": 58,
+      "possession": 48,
+      "setPiece": 62,
+      "mentality": 68
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "ALG",
+    "name": "Algeria",
+    "nameZh": "阿尔及利亚",
+    "group": "J",
+    "confederation": "CAF",
+    "fifaRank": 34,
+    "flag": "🇩🇿",
+    "stats": {
+      "attack": 68,
+      "defense": 64,
+      "possession": 52,
+      "setPiece": 68,
+      "mentality": 74
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "POR",
+    "name": "Portugal",
+    "nameZh": "葡萄牙",
+    "group": "K",
+    "confederation": "UEFA",
+    "fifaRank": 8,
+    "flag": "🇵🇹",
+    "stats": {
+      "attack": 88,
+      "defense": 82,
+      "possession": 76,
+      "setPiece": 84,
+      "mentality": 84
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "COL",
+    "name": "Colombia",
+    "nameZh": "哥伦比亚",
+    "group": "K",
+    "confederation": "CONMEBOL",
+    "fifaRank": 10,
+    "flag": "🇨🇴",
+    "stats": {
+      "attack": 80,
+      "defense": 76,
+      "possession": 66,
+      "setPiece": 72,
+      "mentality": 80
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "UZB",
+    "name": "Uzbekistan",
+    "nameZh": "乌兹别克斯坦",
+    "group": "K",
+    "confederation": "AFC",
+    "fifaRank": 57,
+    "flag": "🇺🇿",
+    "stats": {
+      "attack": 60,
+      "defense": 58,
+      "possession": 48,
+      "setPiece": 62,
+      "mentality": 66
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "COD",
+    "name": "DR Congo",
+    "nameZh": "刚果（金）",
+    "group": "K",
+    "confederation": "CAF",
+    "fifaRank": 59,
+    "flag": "🇨🇩",
+    "stats": {
+      "attack": 62,
+      "defense": 56,
+      "possession": 50,
+      "setPiece": 60,
+      "mentality": 68
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "ENG",
+    "name": "England",
+    "nameZh": "英格兰",
+    "group": "L",
+    "confederation": "UEFA",
+    "fifaRank": 5,
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "stats": {
+      "attack": 90,
+      "defense": 84,
+      "possession": 78,
+      "setPiece": 86,
+      "mentality": 84
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "CRO",
+    "name": "Croatia",
+    "nameZh": "克罗地亚",
+    "group": "L",
+    "confederation": "UEFA",
+    "fifaRank": 9,
+    "flag": "🇭🇷",
+    "stats": {
+      "attack": 80,
+      "defense": 80,
+      "possession": 68,
+      "setPiece": 76,
+      "mentality": 88
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "GHA",
+    "name": "Ghana",
+    "nameZh": "加纳",
+    "group": "L",
+    "confederation": "CAF",
+    "fifaRank": 58,
+    "flag": "🇬🇭",
+    "stats": {
+      "attack": 66,
+      "defense": 62,
+      "possession": 50,
+      "setPiece": 66,
+      "mentality": 72
+    },
+    "_note": "stats simulated"
+  },
+  {
+    "id": "PAN",
+    "name": "Panama",
+    "nameZh": "巴拿马",
+    "group": "L",
+    "confederation": "CONCACAF",
+    "fifaRank": 47,
+    "flag": "🇵🇦",
+    "stats": {
+      "attack": 60,
+      "defense": 58,
+      "possession": 48,
+      "setPiece": 60,
+      "mentality": 66
+    },
+    "_note": "stats simulated"
+  }
+]

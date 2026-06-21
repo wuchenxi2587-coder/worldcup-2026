@@ -1,0 +1,1346 @@
+[
+  {
+    "id": "m001",
+    "stage": "group",
+    "group": "A",
+    "date": "2026-06-11T12:00:00-06:00",
+    "city": "Mexico City",
+    "stadium": "Estadio Azteca",
+    "home": "MEX",
+    "away": "RSA",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m002",
+    "stage": "group",
+    "group": "A",
+    "date": "2026-06-11T15:00:00-06:00",
+    "city": "Guadalajara",
+    "stadium": "Estadio Akron",
+    "home": "KOR",
+    "away": "CZE",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m003",
+    "stage": "group",
+    "group": "B",
+    "date": "2026-06-12T13:00:00-04:00",
+    "city": "Toronto",
+    "stadium": "BMO Field",
+    "home": "CAN",
+    "away": "BIH",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m004",
+    "stage": "group",
+    "group": "D",
+    "date": "2026-06-12T18:00:00-07:00",
+    "city": "Los Angeles",
+    "stadium": "SoFi Stadium",
+    "home": "USA",
+    "away": "PAR",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m005",
+    "stage": "group",
+    "group": "B",
+    "date": "2026-06-13T13:00:00-07:00",
+    "city": "San Francisco / Santa Clara",
+    "stadium": "Levi's Stadium",
+    "home": "QAT",
+    "away": "SUI",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m006",
+    "stage": "group",
+    "group": "C",
+    "date": "2026-06-13T18:00:00-04:00",
+    "city": "New York / New Jersey",
+    "stadium": "MetLife Stadium",
+    "home": "BRA",
+    "away": "MAR",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m007",
+    "stage": "group",
+    "group": "C",
+    "date": "2026-06-13T21:00:00-04:00",
+    "city": "Boston / Foxborough",
+    "stadium": "Gillette Stadium",
+    "home": "HAI",
+    "away": "SCO",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m008",
+    "stage": "group",
+    "group": "D",
+    "date": "2026-06-14T13:00:00-07:00",
+    "city": "Vancouver",
+    "stadium": "BC Place",
+    "home": "AUS",
+    "away": "TUR",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m009",
+    "stage": "group",
+    "group": "E",
+    "date": "2026-06-14T16:00:00-05:00",
+    "city": "Houston",
+    "stadium": "NRG Stadium",
+    "home": "GER",
+    "away": "CUW",
+    "status": "finished",
+    "score": {
+      "home": 7,
+      "away": 1
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m010",
+    "stage": "group",
+    "group": "F",
+    "date": "2026-06-14T13:00:00-05:00",
+    "city": "Dallas / Arlington",
+    "stadium": "AT&T Stadium",
+    "home": "NED",
+    "away": "JPN",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m011",
+    "stage": "group",
+    "group": "E",
+    "date": "2026-06-14T19:00:00-04:00",
+    "city": "Philadelphia",
+    "stadium": "Lincoln Financial Field",
+    "home": "CIV",
+    "away": "ECU",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m012",
+    "stage": "group",
+    "group": "F",
+    "date": "2026-06-14T21:00:00-06:00",
+    "city": "Monterrey",
+    "stadium": "Estadio BBVA",
+    "home": "SWE",
+    "away": "TUN",
+    "status": "finished",
+    "score": {
+      "home": 5,
+      "away": 1
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m013",
+    "stage": "group",
+    "group": "H",
+    "date": "2026-06-15T13:00:00-04:00",
+    "city": "Atlanta",
+    "stadium": "Mercedes-Benz Stadium",
+    "home": "ESP",
+    "away": "CPV",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m014",
+    "stage": "group",
+    "group": "G",
+    "date": "2026-06-15T16:00:00-07:00",
+    "city": "Seattle",
+    "stadium": "Lumen Field",
+    "home": "BEL",
+    "away": "EGY",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m015",
+    "stage": "group",
+    "group": "H",
+    "date": "2026-06-15T13:00:00-04:00",
+    "city": "Miami Gardens",
+    "stadium": "Hard Rock Stadium",
+    "home": "KSA",
+    "away": "URU",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m016",
+    "stage": "group",
+    "group": "G",
+    "date": "2026-06-15T19:00:00-07:00",
+    "city": "Los Angeles",
+    "stadium": "SoFi Stadium",
+    "home": "IRN",
+    "away": "NZL",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m017",
+    "stage": "group",
+    "group": "I",
+    "date": "2026-06-16T15:00:00-04:00",
+    "city": "New York / New Jersey",
+    "stadium": "MetLife Stadium",
+    "home": "FRA",
+    "away": "SEN",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m018",
+    "stage": "group",
+    "group": "I",
+    "date": "2026-06-16T18:00:00-04:00",
+    "city": "Boston / Foxborough",
+    "stadium": "Gillette Stadium",
+    "home": "IRQ",
+    "away": "NOR",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 4
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m019",
+    "stage": "group",
+    "group": "J",
+    "date": "2026-06-16T20:00:00-05:00",
+    "city": "Kansas City",
+    "stadium": "Arrowhead Stadium",
+    "home": "ARG",
+    "away": "ALG",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m020",
+    "stage": "group",
+    "group": "J",
+    "date": "2026-06-17T13:00:00-07:00",
+    "city": "San Francisco / Santa Clara",
+    "stadium": "Levi's Stadium",
+    "home": "AUT",
+    "away": "JOR",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m021",
+    "stage": "group",
+    "group": "K",
+    "date": "2026-06-17T16:00:00-05:00",
+    "city": "Houston",
+    "stadium": "NRG Stadium",
+    "home": "POR",
+    "away": "COD",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m022",
+    "stage": "group",
+    "group": "L",
+    "date": "2026-06-17T19:00:00-05:00",
+    "city": "Dallas / Arlington",
+    "stadium": "AT&T Stadium",
+    "home": "ENG",
+    "away": "CRO",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 2
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m023",
+    "stage": "group",
+    "group": "L",
+    "date": "2026-06-17T16:00:00-04:00",
+    "city": "Toronto",
+    "stadium": "BMO Field",
+    "home": "GHA",
+    "away": "PAN",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m024",
+    "stage": "group",
+    "group": "K",
+    "date": "2026-06-17T21:00:00-06:00",
+    "city": "Mexico City",
+    "stadium": "Estadio Azteca",
+    "home": "UZB",
+    "away": "COL",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m025",
+    "stage": "group",
+    "group": "A",
+    "date": "2026-06-18T13:00:00-04:00",
+    "city": "Atlanta",
+    "stadium": "Mercedes-Benz Stadium",
+    "home": "CZE",
+    "away": "RSA",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m026",
+    "stage": "group",
+    "group": "B",
+    "date": "2026-06-18T16:00:00-07:00",
+    "city": "Los Angeles",
+    "stadium": "SoFi Stadium",
+    "home": "SUI",
+    "away": "BIH",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m027",
+    "stage": "group",
+    "group": "B",
+    "date": "2026-06-18T19:00:00-07:00",
+    "city": "Vancouver",
+    "stadium": "BC Place",
+    "home": "CAN",
+    "away": "QAT",
+    "status": "finished",
+    "score": {
+      "home": 6,
+      "away": 0
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m028",
+    "stage": "group",
+    "group": "A",
+    "date": "2026-06-18T21:00:00-06:00",
+    "city": "Guadalajara",
+    "stadium": "Estadio Akron",
+    "home": "MEX",
+    "away": "KOR",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m029",
+    "stage": "group",
+    "group": "D",
+    "date": "2026-06-19T13:00:00-07:00",
+    "city": "Seattle",
+    "stadium": "Lumen Field",
+    "home": "USA",
+    "away": "AUS",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m030",
+    "stage": "group",
+    "group": "C",
+    "date": "2026-06-19T16:00:00-04:00",
+    "city": "Boston / Foxborough",
+    "stadium": "Gillette Stadium",
+    "home": "SCO",
+    "away": "MAR",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m031",
+    "stage": "group",
+    "group": "C",
+    "date": "2026-06-19T19:00:00-04:00",
+    "city": "Philadelphia",
+    "stadium": "Lincoln Financial Field",
+    "home": "BRA",
+    "away": "HAI",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m032",
+    "stage": "group",
+    "group": "F",
+    "date": "2026-06-21T20:00:00-06:00",
+    "city": "Monterrey",
+    "stadium": "Estadio BBVA",
+    "home": "TUN",
+    "away": "JPN",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 4
+    },
+    "_source": "ESPN"
+  },
+  {
+    "id": "m033",
+    "stage": "group",
+    "group": "H",
+    "date": "2026-06-21T12:00:00-04:00",
+    "city": "Atlanta",
+    "stadium": "Mercedes-Benz Stadium",
+    "home": "ESP",
+    "away": "KSA",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m034",
+    "stage": "group",
+    "group": "G",
+    "date": "2026-06-21T15:00:00-07:00",
+    "city": "Los Angeles",
+    "stadium": "SoFi Stadium",
+    "home": "BEL",
+    "away": "IRN",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m035",
+    "stage": "group",
+    "group": "H",
+    "date": "2026-06-21T18:00:00-04:00",
+    "city": "Miami Gardens",
+    "stadium": "Hard Rock Stadium",
+    "home": "URU",
+    "away": "CPV",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m036",
+    "stage": "group",
+    "group": "G",
+    "date": "2026-06-21T21:00:00-07:00",
+    "city": "Vancouver",
+    "stadium": "BC Place",
+    "home": "NZL",
+    "away": "EGY",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m037",
+    "stage": "group",
+    "group": "J",
+    "date": "2026-06-22T13:00:00-05:00",
+    "city": "Dallas / Arlington",
+    "stadium": "AT&T Stadium",
+    "home": "ARG",
+    "away": "AUT",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m038",
+    "stage": "group",
+    "group": "I",
+    "date": "2026-06-22T17:00:00-04:00",
+    "city": "Philadelphia",
+    "stadium": "Lincoln Financial Field",
+    "home": "FRA",
+    "away": "IRQ",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m039",
+    "stage": "group",
+    "group": "I",
+    "date": "2026-06-22T20:00:00-04:00",
+    "city": "New York / New Jersey",
+    "stadium": "MetLife Stadium",
+    "home": "NOR",
+    "away": "SEN",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m040",
+    "stage": "group",
+    "group": "J",
+    "date": "2026-06-22T20:00:00-07:00",
+    "city": "San Francisco / Santa Clara",
+    "stadium": "Levi's Stadium",
+    "home": "JOR",
+    "away": "ALG",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m041",
+    "stage": "group",
+    "group": "K",
+    "date": "2026-06-23T13:00:00-05:00",
+    "city": "Houston",
+    "stadium": "NRG Stadium",
+    "home": "POR",
+    "away": "UZB",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m042",
+    "stage": "group",
+    "group": "L",
+    "date": "2026-06-23T16:00:00-04:00",
+    "city": "Boston / Foxborough",
+    "stadium": "Gillette Stadium",
+    "home": "ENG",
+    "away": "GHA",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m043",
+    "stage": "group",
+    "group": "L",
+    "date": "2026-06-23T19:00:00-04:00",
+    "city": "Toronto",
+    "stadium": "BMO Field",
+    "home": "PAN",
+    "away": "CRO",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m044",
+    "stage": "group",
+    "group": "K",
+    "date": "2026-06-23T22:00:00-06:00",
+    "city": "Guadalajara",
+    "stadium": "Estadio Akron",
+    "home": "COL",
+    "away": "COD",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m045",
+    "stage": "group",
+    "group": "B",
+    "date": "2026-06-24T15:00:00-07:00",
+    "city": "Seattle",
+    "stadium": "Lumen Field",
+    "home": "BIH",
+    "away": "QAT",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m046",
+    "stage": "group",
+    "group": "B",
+    "date": "2026-06-24T15:00:00-07:00",
+    "city": "Vancouver",
+    "stadium": "BC Place",
+    "home": "SUI",
+    "away": "CAN",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m047",
+    "stage": "group",
+    "group": "C",
+    "date": "2026-06-24T18:00:00-04:00",
+    "city": "Atlanta",
+    "stadium": "Mercedes-Benz Stadium",
+    "home": "MAR",
+    "away": "HAI",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m048",
+    "stage": "group",
+    "group": "C",
+    "date": "2026-06-24T18:00:00-04:00",
+    "city": "Miami Gardens",
+    "stadium": "Hard Rock Stadium",
+    "home": "SCO",
+    "away": "BRA",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m049",
+    "stage": "group",
+    "group": "A",
+    "date": "2026-06-24T21:00:00-06:00",
+    "city": "Mexico City",
+    "stadium": "Estadio Azteca",
+    "home": "CZE",
+    "away": "MEX",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m050",
+    "stage": "group",
+    "group": "A",
+    "date": "2026-06-24T21:00:00-06:00",
+    "city": "Guadalajara",
+    "stadium": "Estadio Akron",
+    "home": "RSA",
+    "away": "KOR",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m051",
+    "stage": "group",
+    "group": "E",
+    "date": "2026-06-25T16:00:00-04:00",
+    "city": "Philadelphia",
+    "stadium": "Lincoln Financial Field",
+    "home": "CUW",
+    "away": "CIV",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m052",
+    "stage": "group",
+    "group": "E",
+    "date": "2026-06-25T16:00:00-04:00",
+    "city": "New York / New Jersey",
+    "stadium": "MetLife Stadium",
+    "home": "ECU",
+    "away": "GER",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m053",
+    "stage": "group",
+    "group": "F",
+    "date": "2026-06-25T19:00:00-05:00",
+    "city": "Dallas / Arlington",
+    "stadium": "AT&T Stadium",
+    "home": "JPN",
+    "away": "SWE",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m054",
+    "stage": "group",
+    "group": "F",
+    "date": "2026-06-25T19:00:00-05:00",
+    "city": "Kansas City",
+    "stadium": "Arrowhead Stadium",
+    "home": "TUN",
+    "away": "NED",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m055",
+    "stage": "group",
+    "group": "D",
+    "date": "2026-06-25T22:00:00-07:00",
+    "city": "San Francisco / Santa Clara",
+    "stadium": "Levi's Stadium",
+    "home": "PAR",
+    "away": "AUS",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m056",
+    "stage": "group",
+    "group": "D",
+    "date": "2026-06-25T22:00:00-07:00",
+    "city": "Los Angeles",
+    "stadium": "SoFi Stadium",
+    "home": "TUR",
+    "away": "USA",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m057",
+    "stage": "group",
+    "group": "I",
+    "date": "2026-06-26T15:00:00-04:00",
+    "city": "Boston / Foxborough",
+    "stadium": "Gillette Stadium",
+    "home": "NOR",
+    "away": "FRA",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m058",
+    "stage": "group",
+    "group": "I",
+    "date": "2026-06-26T15:00:00-04:00",
+    "city": "Toronto",
+    "stadium": "BMO Field",
+    "home": "SEN",
+    "away": "IRQ",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m059",
+    "stage": "group",
+    "group": "H",
+    "date": "2026-06-26T20:00:00-05:00",
+    "city": "Houston",
+    "stadium": "NRG Stadium",
+    "home": "CPV",
+    "away": "KSA",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m060",
+    "stage": "group",
+    "group": "H",
+    "date": "2026-06-26T20:00:00-06:00",
+    "city": "Guadalajara",
+    "stadium": "Estadio Akron",
+    "home": "URU",
+    "away": "ESP",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m061",
+    "stage": "group",
+    "group": "G",
+    "date": "2026-06-26T23:00:00-07:00",
+    "city": "Seattle",
+    "stadium": "Lumen Field",
+    "home": "EGY",
+    "away": "IRN",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m062",
+    "stage": "group",
+    "group": "G",
+    "date": "2026-06-26T23:00:00-07:00",
+    "city": "Vancouver",
+    "stadium": "BC Place",
+    "home": "NZL",
+    "away": "BEL",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m063",
+    "stage": "group",
+    "group": "L",
+    "date": "2026-06-27T17:00:00-04:00",
+    "city": "Philadelphia",
+    "stadium": "Lincoln Financial Field",
+    "home": "CRO",
+    "away": "GHA",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m064",
+    "stage": "group",
+    "group": "L",
+    "date": "2026-06-27T17:00:00-04:00",
+    "city": "New York / New Jersey",
+    "stadium": "MetLife Stadium",
+    "home": "PAN",
+    "away": "ENG",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m065",
+    "stage": "group",
+    "group": "K",
+    "date": "2026-06-27T19:30:00-04:00",
+    "city": "Miami Gardens",
+    "stadium": "Hard Rock Stadium",
+    "home": "COL",
+    "away": "POR",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m066",
+    "stage": "group",
+    "group": "K",
+    "date": "2026-06-27T19:30:00-05:00",
+    "city": "Kansas City",
+    "stadium": "Arrowhead Stadium",
+    "home": "COD",
+    "away": "UZB",
+    "status": "scheduled",
+    "_source": "ESPN"
+  },
+  {
+    "id": "m067",
+    "stage": "r32",
+    "date": "2026-06-30T13:00:00-04:00",
+    "city": "New York / New Jersey",
+    "stadium": "MetLife Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m068",
+    "stage": "r32",
+    "date": "2026-06-30T16:00:00-07:00",
+    "city": "Los Angeles",
+    "stadium": "SoFi Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m069",
+    "stage": "r32",
+    "date": "2026-06-30T19:00:00-05:00",
+    "city": "Dallas / Arlington",
+    "stadium": "AT&T Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m070",
+    "stage": "r32",
+    "date": "2026-06-30T21:00:00-04:00",
+    "city": "Atlanta",
+    "stadium": "Mercedes-Benz Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m071",
+    "stage": "r32",
+    "date": "2026-07-01T13:00:00-05:00",
+    "city": "Houston",
+    "stadium": "NRG Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m072",
+    "stage": "r32",
+    "date": "2026-07-01T16:00:00-04:00",
+    "city": "Miami Gardens",
+    "stadium": "Hard Rock Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m073",
+    "stage": "r32",
+    "date": "2026-07-01T19:00:00-04:00",
+    "city": "Philadelphia",
+    "stadium": "Lincoln Financial Field",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m074",
+    "stage": "r32",
+    "date": "2026-07-01T21:00:00-07:00",
+    "city": "Seattle",
+    "stadium": "Lumen Field",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m075",
+    "stage": "r32",
+    "date": "2026-07-02T13:00:00-07:00",
+    "city": "San Francisco / Santa Clara",
+    "stadium": "Levi's Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m076",
+    "stage": "r32",
+    "date": "2026-07-02T16:00:00-04:00",
+    "city": "Boston / Foxborough",
+    "stadium": "Gillette Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m077",
+    "stage": "r32",
+    "date": "2026-07-02T19:00:00-05:00",
+    "city": "Kansas City",
+    "stadium": "Arrowhead Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m078",
+    "stage": "r32",
+    "date": "2026-07-02T21:00:00-07:00",
+    "city": "Vancouver",
+    "stadium": "BC Place",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m079",
+    "stage": "r32",
+    "date": "2026-07-03T13:00:00-04:00",
+    "city": "Toronto",
+    "stadium": "BMO Field",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m080",
+    "stage": "r32",
+    "date": "2026-07-03T16:00:00-06:00",
+    "city": "Mexico City",
+    "stadium": "Estadio Azteca",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m081",
+    "stage": "r32",
+    "date": "2026-07-03T19:00:00-06:00",
+    "city": "Monterrey",
+    "stadium": "Estadio BBVA",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m082",
+    "stage": "r32",
+    "date": "2026-07-03T21:00:00-06:00",
+    "city": "Guadalajara",
+    "stadium": "Estadio Akron",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m083",
+    "stage": "r16",
+    "date": "2026-07-05T16:00:00-04:00",
+    "city": "New York / New Jersey",
+    "stadium": "MetLife Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m084",
+    "stage": "r16",
+    "date": "2026-07-05T19:00:00-04:00",
+    "city": "Philadelphia",
+    "stadium": "Lincoln Financial Field",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m085",
+    "stage": "r16",
+    "date": "2026-07-06T16:00:00-05:00",
+    "city": "Houston",
+    "stadium": "NRG Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m086",
+    "stage": "r16",
+    "date": "2026-07-06T19:00:00-05:00",
+    "city": "Dallas / Arlington",
+    "stadium": "AT&T Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m087",
+    "stage": "r16",
+    "date": "2026-07-07T16:00:00-04:00",
+    "city": "Atlanta",
+    "stadium": "Mercedes-Benz Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m088",
+    "stage": "r16",
+    "date": "2026-07-07T19:00:00-04:00",
+    "city": "Miami Gardens",
+    "stadium": "Hard Rock Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m089",
+    "stage": "r16",
+    "date": "2026-07-08T16:00:00-07:00",
+    "city": "Los Angeles",
+    "stadium": "SoFi Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m090",
+    "stage": "r16",
+    "date": "2026-07-08T19:00:00-07:00",
+    "city": "San Francisco / Santa Clara",
+    "stadium": "Levi's Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m091",
+    "stage": "qf",
+    "date": "2026-07-10T16:00:00-04:00",
+    "city": "Boston / Foxborough",
+    "stadium": "Gillette Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m092",
+    "stage": "qf",
+    "date": "2026-07-10T19:00:00-07:00",
+    "city": "Seattle",
+    "stadium": "Lumen Field",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m093",
+    "stage": "qf",
+    "date": "2026-07-11T16:00:00-05:00",
+    "city": "Kansas City",
+    "stadium": "Arrowhead Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m094",
+    "stage": "qf",
+    "date": "2026-07-11T19:00:00-04:00",
+    "city": "Miami Gardens",
+    "stadium": "Hard Rock Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m095",
+    "stage": "sf",
+    "date": "2026-07-14T19:00:00-05:00",
+    "city": "Dallas / Arlington",
+    "stadium": "AT&T Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m096",
+    "stage": "sf",
+    "date": "2026-07-15T19:00:00-04:00",
+    "city": "Atlanta",
+    "stadium": "Mercedes-Benz Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m097",
+    "stage": "third",
+    "date": "2026-07-18T16:00:00-04:00",
+    "city": "Philadelphia",
+    "stadium": "Lincoln Financial Field",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m098",
+    "stage": "final",
+    "date": "2026-07-19T15:00:00-04:00",
+    "city": "New York / New Jersey",
+    "stadium": "MetLife Stadium",
+    "home": "TBD",
+    "away": "TBD",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m099",
+    "stage": "group",
+    "group": "D",
+    "date": "2026-06-19T16:00:00-06:00",
+    "city": "Monterrey",
+    "stadium": "Estadio BBVA",
+    "home": "PAR",
+    "away": "TUR",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m100",
+    "stage": "group",
+    "group": "E",
+    "date": "2026-06-19T13:00:00-05:00",
+    "city": "Houston",
+    "stadium": "NRG Stadium",
+    "home": "GER",
+    "away": "ECU",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m101",
+    "stage": "group",
+    "group": "E",
+    "date": "2026-06-19T16:00:00-04:00",
+    "city": "Philadelphia",
+    "stadium": "Lincoln Financial Field",
+    "home": "CIV",
+    "away": "CUW",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m102",
+    "stage": "group",
+    "group": "F",
+    "date": "2026-06-21T12:00:00-05:00",
+    "city": "Dallas / Arlington",
+    "stadium": "AT&T Stadium",
+    "home": "NED",
+    "away": "SWE",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m103",
+    "stage": "group",
+    "group": "J",
+    "date": "2026-06-26T13:00:00-07:00",
+    "city": "San Francisco / Santa Clara",
+    "stadium": "Levi's Stadium",
+    "home": "ARG",
+    "away": "JOR",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  },
+  {
+    "id": "m104",
+    "stage": "group",
+    "group": "J",
+    "date": "2026-06-26T16:00:00-04:00",
+    "city": "Boston / Foxborough",
+    "stadium": "Gillette Stadium",
+    "home": "AUT",
+    "away": "ALG",
+    "status": "scheduled",
+    "_source": "FIFA.com"
+  }
+]

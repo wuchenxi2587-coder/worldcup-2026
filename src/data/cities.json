@@ -1,0 +1,130 @@
+[
+  {
+    "name": "New York / New Jersey",
+    "country": "USA",
+    "lat": 40.8136,
+    "lng": -74.0744,
+    "stadium": "MetLife Stadium",
+    "capacity": 82500
+  },
+  {
+    "name": "Los Angeles",
+    "country": "USA",
+    "lat": 33.9533,
+    "lng": -118.3391,
+    "stadium": "SoFi Stadium",
+    "capacity": 70240
+  },
+  {
+    "name": "Dallas / Arlington",
+    "country": "USA",
+    "lat": 32.7473,
+    "lng": -97.0945,
+    "stadium": "AT&T Stadium",
+    "capacity": 80000
+  },
+  {
+    "name": "Kansas City",
+    "country": "USA",
+    "lat": 39.0489,
+    "lng": -94.484,
+    "stadium": "Arrowhead Stadium",
+    "capacity": 76416
+  },
+  {
+    "name": "Houston",
+    "country": "USA",
+    "lat": 29.6847,
+    "lng": -95.4108,
+    "stadium": "NRG Stadium",
+    "capacity": 72220
+  },
+  {
+    "name": "Atlanta",
+    "country": "USA",
+    "lat": 33.7552,
+    "lng": -84.401,
+    "stadium": "Mercedes-Benz Stadium",
+    "capacity": 71000
+  },
+  {
+    "name": "Philadelphia",
+    "country": "USA",
+    "lat": 39.9008,
+    "lng": -75.1673,
+    "stadium": "Lincoln Financial Field",
+    "capacity": 69596
+  },
+  {
+    "name": "Seattle",
+    "country": "USA",
+    "lat": 47.5952,
+    "lng": -122.3315,
+    "stadium": "Lumen Field",
+    "capacity": 68740
+  },
+  {
+    "name": "San Francisco / Santa Clara",
+    "country": "USA",
+    "lat": 37.4031,
+    "lng": -121.9698,
+    "stadium": "Levi's Stadium",
+    "capacity": 68500
+  },
+  {
+    "name": "Boston / Foxborough",
+    "country": "USA",
+    "lat": 42.0909,
+    "lng": -71.2643,
+    "stadium": "Gillette Stadium",
+    "capacity": 65878
+  },
+  {
+    "name": "Miami Gardens",
+    "country": "USA",
+    "lat": 25.958,
+    "lng": -80.2389,
+    "stadium": "Hard Rock Stadium",
+    "capacity": 64767
+  },
+  {
+    "name": "Mexico City",
+    "country": "MEX",
+    "lat": 19.303,
+    "lng": -99.1504,
+    "stadium": "Estadio Azteca",
+    "capacity": 87523
+  },
+  {
+    "name": "Monterrey",
+    "country": "MEX",
+    "lat": 25.6858,
+    "lng": -100.3131,
+    "stadium": "Estadio BBVA",
+    "capacity": 53500
+  },
+  {
+    "name": "Guadalajara",
+    "country": "MEX",
+    "lat": 20.6826,
+    "lng": -103.3507,
+    "stadium": "Estadio Akron",
+    "capacity": 46232
+  },
+  {
+    "name": "Toronto",
+    "country": "CAN",
+    "lat": 43.6435,
+    "lng": -79.379,
+    "stadium": "BMO Field",
+    "capacity": 45000
+  },
+  {
+    "name": "Vancouver",
+    "country": "CAN",
+    "lat": 49.2767,
+    "lng": -123.112,
+    "stadium": "BC Place",
+    "capacity": 54320
+  }
+]
