@@ -2,7 +2,7 @@
 // To update data: replace files in public/data/ and redeploy (or hot-swap on server)
 import type { Team, Match, City, Player, Lineup } from './types';
 
-const BASE = '/data';
+const BASE = import.meta.env.BASE_URL + 'data';
 
 async function fetchJSON<T>(filename: string): Promise<T> {
   const res = await fetch(`${BASE}/${filename}`);
