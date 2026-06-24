@@ -568,8 +568,12 @@
     "stadium": "AT&T Stadium",
     "home": "ARG",
     "away": "AUT",
-    "status": "scheduled",
-    "_source": "ESPN"
+    "status": "finished",
+    "_source": "ESPN",
+    "score": {
+      "home": 2,
+      "away": 0
+    }
   },
   {
     "id": "m038",
@@ -580,8 +584,12 @@
     "stadium": "Lincoln Financial Field",
     "home": "FRA",
     "away": "IRQ",
-    "status": "scheduled",
-    "_source": "ESPN"
+    "status": "finished",
+    "_source": "ESPN",
+    "score": {
+      "home": 3,
+      "away": 0
+    }
   },
   {
     "id": "m039",
@@ -592,8 +600,12 @@
     "stadium": "MetLife Stadium",
     "home": "NOR",
     "away": "SEN",
-    "status": "scheduled",
-    "_source": "ESPN"
+    "status": "finished",
+    "_source": "ESPN",
+    "score": {
+      "home": 3,
+      "away": 2
+    }
   },
   {
     "id": "m040",
@@ -604,8 +616,12 @@
     "stadium": "Levi's Stadium",
     "home": "JOR",
     "away": "ALG",
-    "status": "scheduled",
-    "_source": "ESPN"
+    "status": "finished",
+    "_source": "ESPN",
+    "score": {
+      "home": 1,
+      "away": 2
+    }
   },
   {
     "id": "m041",
