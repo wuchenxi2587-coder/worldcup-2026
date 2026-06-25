@@ -520,8 +520,12 @@
     "stadium": "Mercedes-Benz Stadium",
     "home": "ESP",
     "away": "KSA",
-    "status": "scheduled",
-    "_source": "ESPN"
+    "status": "finished",
+    "_source": "ESPN",
+    "score": {
+      "home": 4,
+      "away": 0
+    }
   },
   {
     "id": "m034",
@@ -532,8 +536,12 @@
     "stadium": "SoFi Stadium",
     "home": "BEL",
     "away": "IRN",
-    "status": "scheduled",
-    "_source": "ESPN"
+    "status": "finished",
+    "_source": "ESPN",
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m035",
@@ -544,8 +552,12 @@
     "stadium": "Hard Rock Stadium",
     "home": "URU",
     "away": "CPV",
-    "status": "scheduled",
-    "_source": "ESPN"
+    "status": "finished",
+    "_source": "ESPN",
+    "score": {
+      "home": 2,
+      "away": 2
+    }
   },
   {
     "id": "m036",
@@ -556,8 +568,12 @@
     "stadium": "BC Place",
     "home": "NZL",
     "away": "EGY",
-    "status": "scheduled",
-    "_source": "ESPN"
+    "status": "finished",
+    "_source": "ESPN",
+    "score": {
+      "home": 1,
+      "away": 3
+    }
   },
   {
     "id": "m037",
@@ -632,8 +648,12 @@
     "stadium": "NRG Stadium",
     "home": "POR",
     "away": "UZB",
-    "status": "scheduled",
-    "_source": "ESPN"
+    "status": "finished",
+    "_source": "ESPN",
+    "score": {
+      "home": 5,
+      "away": 0
+    }
   },
   {
     "id": "m042",
@@ -644,8 +664,12 @@
     "stadium": "Gillette Stadium",
     "home": "ENG",
     "away": "GHA",
-    "status": "scheduled",
-    "_source": "ESPN"
+    "status": "finished",
+    "_source": "ESPN",
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m043",
@@ -656,8 +680,12 @@
     "stadium": "BMO Field",
     "home": "PAN",
     "away": "CRO",
-    "status": "scheduled",
-    "_source": "ESPN"
+    "status": "finished",
+    "_source": "ESPN",
+    "score": {
+      "home": 0,
+      "away": 1
+    }
   },
   {
     "id": "m044",
@@ -668,8 +696,12 @@
     "stadium": "Estadio Akron",
     "home": "COL",
     "away": "COD",
-    "status": "scheduled",
-    "_source": "ESPN"
+    "status": "finished",
+    "_source": "ESPN",
+    "score": {
+      "home": 1,
+      "away": 0
+    }
   },
   {
     "id": "m045",
@@ -680,8 +712,12 @@
     "stadium": "Lumen Field",
     "home": "BIH",
     "away": "QAT",
-    "status": "scheduled",
-    "_source": "ESPN"
+    "status": "finished",
+    "_source": "ESPN",
+    "score": {
+      "home": 3,
+      "away": 1
+    }
   },
   {
     "id": "m046",
@@ -692,8 +728,12 @@
     "stadium": "BC Place",
     "home": "SUI",
     "away": "CAN",
-    "status": "scheduled",
-    "_source": "ESPN"
+    "status": "finished",
+    "_source": "ESPN",
+    "score": {
+      "home": 2,
+      "away": 1
+    }
   },
   {
     "id": "m047",
@@ -704,8 +744,12 @@
     "stadium": "Mercedes-Benz Stadium",
     "home": "MAR",
     "away": "HAI",
-    "status": "scheduled",
-    "_source": "ESPN"
+    "status": "finished",
+    "_source": "ESPN",
+    "score": {
+      "home": 2,
+      "away": 0
+    }
   },
   {
     "id": "m048",
@@ -716,8 +760,12 @@
     "stadium": "Hard Rock Stadium",
     "home": "SCO",
     "away": "BRA",
-    "status": "scheduled",
-    "_source": "ESPN"
+    "status": "finished",
+    "_source": "ESPN",
+    "score": {
+      "home": 0,
+      "away": 3
+    }
   },
   {
     "id": "m049",
@@ -728,8 +776,12 @@
     "stadium": "Estadio Azteca",
     "home": "CZE",
     "away": "MEX",
-    "status": "scheduled",
-    "_source": "ESPN"
+    "status": "finished",
+    "_source": "ESPN",
+    "score": {
+      "home": 0,
+      "away": 3
+    }
   },
   {
     "id": "m050",
@@ -740,8 +792,12 @@
     "stadium": "Estadio Akron",
     "home": "RSA",
     "away": "KOR",
-    "status": "scheduled",
-    "_source": "ESPN"
+    "status": "finished",
+    "_source": "ESPN",
+    "score": {
+      "home": 1,
+      "away": 0
+    }
   },
   {
     "id": "m051",
